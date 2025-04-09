@@ -19,6 +19,6 @@ Widget build(BuildContext context){
         
       ],
     ),
-    ),,
+    ),
   )
 }
